@@ -1,5 +1,5 @@
 # 💫 About Me:
-### ⚡ `nayondev`
+### ⚡ `Nayon Dev`
 
 - 🌐 **Hacking the Matrix:** Automating workflows and building algorithmic trading systems.
 - 📈 **Market Logic:** Implementing technical indicators like RSI and MACD into custom execution bots.
@@ -41,6 +41,6 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=nayonredxofficial-lgtm&base=100000&icon=0&color=2ecc71&style=flat-square" alt="Ping Count" />
+    <img src="https://komarev.com/ghpvc/?username=nayondev0x&base=1056090&icon=0&color=2ecc71&style=flat-square" alt="Ping Count" />
   </a>
 </p>
