@@ -41,6 +41,6 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=nayonredxofficial-lgtm&icon=0&color=2ecc71&style=flat-square" alt="Ping Count" />
+    <img src="https://komarev.com/ghpvc/?username=nayonredxofficial-lgtm&base=100000&icon=0&color=2ecc71&style=flat-square" alt="Ping Count" />
   </a>
 </p>
